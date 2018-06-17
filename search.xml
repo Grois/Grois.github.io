@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[毕业了]]></title>
+    <url>%2F2018%2F06%2F16%2FHello%2F</url>
+    <content type="text"><![CDATA[今天是6月16号，收到了女朋友从学校寄来毕业证书和学位证书。一个人在屋里待着，感慨很多。终于毕业了。这么快就毕业了。 毕业了其实对于毕业这件事，不清楚自己是怎么想的，只是把它当做一件事，想尽快做完，甚至觉得有些麻烦。对于各种离别好像也不太感伤。拍照时跟大家一起，照片出来甚至没有下载下来看看。毕业聚餐时认认真真吃了顿饭，吃撑了看别人一把鼻涕一把泪表达着自己的不舍，约定着以后怎样怎样。曾经熟悉的、不熟悉的同学都跑过来敬酒，没办法，端起杯子寒暄几句，干了。 一位同学跟我说，“你就是那种很高冷、话很少、但是技术很强的大神，背后默默做着很多我们不知道的事，感觉什么都会，很厉害。” 我与这位同学并不熟，大学四年可能说过的话不超过4句。但是这句评价让我开始思考，我这4年到底给同学们留下了什么印象。 思考了一会，觉得很累，大家也吃的差不多了，外边下着雨，我拿起伞，跑回了宿舍。 峰哥峰哥是我室友，算是大学期间关系最好的朋友。峰哥的故事很多。 他对计算机毫无兴趣，满脑子想着赚钱。我们一起做过小生意，也帮人做过贷款。峰哥曾经中了借贷宝的套路，损失惨重，又因为借了高利贷，后来背了不少债务。 大三的时候，峰哥退学了，在深圳做培训行业，做的非常不错，至少他很感兴趣，充满干劲。毕业的时候刚好赶上他姐姐结婚，他从深圳回来，跟我们几个一起吃饭，吃的很开心，至少我很开心。比毕业聚餐有意思多了。]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>扯淡</tag>
+        <tag>毕业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F06%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+</search>
